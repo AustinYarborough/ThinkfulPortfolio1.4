@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* my syle rules for h1 which is my name/logo */
+h1 {
+  text-align: center;
+  background-color: gray;
+  color: darkorange;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 30px;
+}
+/* my style rules for h2 which is the intro, about me, and contact */
+h2 {
+  text-align: center;
+  background-color: gray;
+  color: darkorange;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* I made this class to center my profile pic and to make it a tad smaller */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+/* just center and changing size of my main paragraphs */
+p {
+  text-align: center;
+  font-size: 25;
+}
+/* this anchor which i made for my links in the contact section has this rule where if you hover over it, it will change colors */
+a:hover { color: orange;}
+
+h3 {
+  text-align: center;
+  
+}
+
+
+
